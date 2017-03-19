@@ -1,4 +1,4 @@
-package proj.pagerank.hadoop.util;
+package proj.pagerank.wiki.hadoop.util;
 
 
 

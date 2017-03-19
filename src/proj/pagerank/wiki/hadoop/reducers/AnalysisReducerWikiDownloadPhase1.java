@@ -1,6 +1,6 @@
-package proj.pagerank.hadoop.reducers;
+package proj.pagerank.wiki.hadoop.reducers;
 
-import proj.pagerank.hadoop.util.Constants;
+import proj.pagerank.wiki.hadoop.util.Constants;
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Set;

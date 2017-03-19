@@ -1,6 +1,6 @@
-package proj.pagerank.hadoop.mappers;
+package proj.pagerank.wiki.hadoop.mappers;
 
-import proj.pagerank.hadoop.util.Constants;
+import proj.pagerank.wiki.hadoop.util.Constants;
 import java.io.IOException;
 
 import org.apache.hadoop.io.LongWritable;

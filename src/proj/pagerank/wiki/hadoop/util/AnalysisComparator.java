@@ -1,4 +1,4 @@
-package proj.pagerank.hadoop.util;
+package proj.pagerank.wiki.hadoop.util;
 
 import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.WritableComparable;

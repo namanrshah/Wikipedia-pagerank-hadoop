@@ -1,4 +1,4 @@
-package proj.pagerank.hadoop.reducers;
+package proj.pagerank.wiki.hadoop.reducers;
 
 import java.io.IOException;
 

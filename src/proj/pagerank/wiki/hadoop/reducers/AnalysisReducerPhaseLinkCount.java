@@ -1,6 +1,6 @@
-package proj.pagerank.hadoop.reducers;
+package proj.pagerank.wiki.hadoop.reducers;
 
-import proj.pagerank.hadoop.util.CounterEnum;
+import proj.pagerank.wiki.hadoop.util.CounterEnum;
 import java.io.IOException;
 
 import org.apache.hadoop.io.NullWritable;

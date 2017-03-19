@@ -1,4 +1,4 @@
-package proj.pagerank.hadoop.partitioners;
+package proj.pagerank.wiki.hadoop.partitioners;
 
 import java.util.Random;
 

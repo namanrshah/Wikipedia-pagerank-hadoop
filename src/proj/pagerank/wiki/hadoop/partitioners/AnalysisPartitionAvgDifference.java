@@ -1,6 +1,6 @@
-package proj.pagerank.hadoop.partitioners;
+package proj.pagerank.wiki.hadoop.partitioners;
 
-import proj.pagerank.hadoop.util.Constants;
+import proj.pagerank.wiki.hadoop.util.Constants;
 import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Partitioner;
